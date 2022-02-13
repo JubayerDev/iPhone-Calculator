@@ -19,7 +19,6 @@ body{
     color: white;
 }
 .top-container{
-    padding: 0 20px;
     display: flex;
     justify-content: space-between;
     height: 100px;
@@ -77,5 +76,8 @@ body{
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
+}
+img{
+    width: 75%;
 }
 
